@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "5ed21834448b7d60",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdbc6f002606d44e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ca35e6011fd23c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонаж.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b9b44a124883f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b8a2a49dc9cd76a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad1a242ec45bb34d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "479d3835c2dbe7fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3de5dec78fe3e838",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d71ef4e618f10731",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cab9d075cb78b04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4bf934db6544fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Персонаж.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ec4fefc724eed2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Персонаж.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c625dd5db5dc05c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a36c0b2bcaf68ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Персонаж.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
+    }
+  },
+  "active": "34ca35e6011fd23c",
+  "lastOpenFiles": [
+    "Характеристики/Мудрість (Wisdom).md",
+    "Характеристики/Інтелект (Intelligent).md",
+    "Персонаж.md",
+    "Класи/Авантюрист.md",
+    "Навички/Переконання (Persuasion).md",
+    "Навички/Аналіз (Investigation).md",
+    "Характеристики/Спритність (Dexterity).md",
+    "Характеристики/Харизма (Charisma).md",
+    "Навички/Виступ (Performance).md",
+    "Навички/Академія (Academia).md",
+    "Навички/Залякування (Intimidation).md",
+    "Навички/Без назви",
+    "Навички/Обман (Deception).md",
+    "Навички/Непомітність (Stealth).md",
+    "Навички/Спритність рук (Sleight of Hand).md",
+    "Навички/Акробатика (Acrobatics).md",
+    "Характеристики/Сила (Strength).md",
+    "Навички/Атлетика (Athletics).md",
+    "Навички/Пілотування (Piloting).md",
+    "Навички/Розуміння (Insight).md",
+    "Навички/Сприйняття (Perception).md",
+    "Навички/Програмне забезпечення (Software).md",
+    "Навички/Медицина (Medicine).md",
+    "Характеристики/Cтатура (Constitution).md",
+    "Навички/Залізо (Hardware).md",
+    "Навички",
+    "Характеристики",
+    "Раси/Без назви.md",
+    "Раси/Ескін.md",
+    "Раси",
+    "Класи",
+    "Передісторії"
+  ]
+}
