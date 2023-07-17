@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "747c09617b27c35a",
+        "id": "712028abe1495321",
         "type": "tabs",
         "children": [
           {
-            "id": "d026e3b6c3c4ee79",
+            "id": "5f285bf21e250545",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Характеристики/Інтелект (Intelligence).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "129d073513d43e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Навички/Аналіз (Investigation).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62c7ca6988c5a6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Характеристики/Спритність (Dexterity).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbbf2b6ac05ed67f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Навички/Атлетика (Athletics).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Характеристики/Інтелект (Intelligence).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Характеристики/Інтелект (Intelligence).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Характеристики/Інтелект (Intelligence).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,13 +138,34 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "d026e3b6c3c4ee79",
+  "active": "5f285bf21e250545",
   "lastOpenFiles": [
-    "Характеристики/Спритність (Dexterity).md",
+    "Лор/Мегакорпорації/Militech/Історія.md",
+    "Лор/Мегакорпорації/Militech/Militech.md",
+    "Лор/Мегакорпорації/EBM/EBM.md",
+    "Лор/Мегакорпорації/EBM/Історія.md",
+    "Лор/Мегакорпорації/Petrochem/Petrochem.md",
+    "Лор/Мегакорпорації/Petrochem/Історія.md",
+    "Лор/Мегакорпорації/Arasaka/Історія.md",
+    "Лор/Мегакорпорації/Arasaka/Arasaka.md",
+    "Лор/Мегакорпорації/Militech",
+    "Лор/Мегакорпорації/EBM",
+    "Лор/Мегакорпорації/Petrochem",
+    "Лор/Історія світу/2000-ті роки.md",
+    "Лор/Мегакорпорації/Arasaka",
+    "Лор/Історія світу/1990-ті роки.md",
+    "Лор/Мегакорпорації",
+    "Лор/Історія світу",
+    "Лор",
+    "Лор/Мегакорпорації/Arasaka/Без назви.md",
+    "Лор/Мегакорпорації/Без назви.md",
+    "Арасаки.md",
     "Характеристики/Інтелект (Intelligence).md",
+    "Лор/Історія світу/1990-ті роки",
     "Навички/Аналіз (Investigation).md",
-    "Навички/Акробатика (Acrobatics).md",
+    "Характеристики/Спритність (Dexterity).md",
     "Навички/Атлетика (Athletics).md",
+    "Навички/Акробатика (Acrobatics).md",
     "Персонаж.md",
     "Характеристики/Cтатура (Constitution).md",
     "Характеристики/Сила (Strength).md",
@@ -196,26 +173,8 @@
     "Навички/Спритність рук (Sleight of Hand).md",
     "Характеристики/Мудрість (Wisdom).md",
     "Спритність.md",
-    "Передісторії/Корпорат (Corpo).md",
-    "Передісторії/Дитя вулиць (Streetkid).md",
-    "Передісторії/Кочевник (Nomad).md",
-    "Класи/Рокстар (Rockstar).md",
-    "Класи/Ріпер (Ripperdoc).md",
-    "Класи/Оператор (Operator).md",
-    "Класи/Нетранер (Netrunner).md",
-    "Класи/Кібернавіжений (Cyberpsycho).md",
-    "Класи/Авантюрист (Adventurer).md",
-    "Класи/Соло (Solo).md",
     "Без назви.canvas",
-    "Навички/Програмне забезпечення (Software).md",
-    "Навички/Академія (Academia).md",
-    "Навички/Переконання (Persuasion).md",
-    "Характеристики/Харизма (Charisma).md",
     "Навички/Без назви",
-    "Навички",
-    "Характеристики",
-    "Раси",
-    "Класи",
-    "Передісторії"
+    "Навички"
   ]
 }
