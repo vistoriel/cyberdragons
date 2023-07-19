@@ -1,4 +1,4 @@
-#імплант #ближня_зброя
+#імплант #рукопашна_зброя #зброя #спорядження
 ![image](https://static.wikia.nocookie.net/cyberpunk/images/8/81/Cw_arms_mantisblades.png/revision/latest?cb=20210607103740)
 **Коштує:** 18 000 ED
 **Рідкість:** Рідкісна

@@ -1,4 +1,4 @@
-#імплант #дальня_зброя
+#імплант #дальнобійна_зброя #зброя #спорядження
 ![image](https://static.wikia.nocookie.net/cyberpunk/images/2/2e/Cw_arms_projectilelauncher.png/revision/latest?cb=20210606185906)
 **Коштує:** 33 000 ED
 **Рідкість:** Епічне

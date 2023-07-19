@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 10088601
       }
+    },
+    {
+      "query": "tag:#імплант",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 12.2916666666667,
   "linkStrength": 1,
   "linkDistance": 297,
-  "scale": 0.7132754626224538,
-  "close": true
+  "scale": 0.7132754626224621,
+  "close": false
 }

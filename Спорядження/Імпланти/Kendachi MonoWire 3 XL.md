@@ -1,4 +1,4 @@
-#імплант #ближня_зброя
+#імплант #рукопашна_зброя #зброя #спорядження
 ![image](https://static.wikia.nocookie.net/cyberpunk/images/1/17/Cw_arms_nanowires.png/revision/latest?cb=20210605120148)
 **Коштує:** 35 000 ED
 **Рідкість:** Епічне

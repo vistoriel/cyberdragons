@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2760c9a5956236c5",
+        "id": "67fc67d7586c0eda",
         "type": "tabs",
         "children": [
           {
-            "id": "6ea9f158d2b59773",
+            "id": "9cb6a7fb25c47d3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Імпланти/Kendachi MonoWire 3 XL.md",
+                "file": "Спорядження/Зброя/Дальнобійна зброя/Militech M-10AF Lexington.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2bcc2864ed8f3a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Спорядження/Імпланти/Arasaka Projectile Launch System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Імпланти/Kendachi MonoWire 3 XL.md",
+                "file": "Спорядження/Зброя/Дальнобійна зброя/Militech M-10AF Lexington.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Імпланти/Kendachi MonoWire 3 XL.md",
+                "file": "Спорядження/Зброя/Дальнобійна зброя/Militech M-10AF Lexington.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Імпланти/Kendachi MonoWire 3 XL.md"
+                "file": "Спорядження/Зброя/Дальнобійна зброя/Militech M-10AF Lexington.md"
               }
             }
           }
@@ -139,24 +151,28 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
-      "graph:Граф": false,
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "6ea9f158d2b59773",
+  "active": "9cb6a7fb25c47d3a",
   "lastOpenFiles": [
-    "Імпланти/Lazarus StrongFists Light.md",
-    "Імпланти/Arasaka GorillaArms II.md",
-    "Імпланти/Arasaka MantisBlades SL.md",
-    "Імпланти/Arasaka Projectile Launch System.md",
-    "Імпланти/Kendachi MonoWire 3 XL.md",
-    "Імпланти/Militech HiddenMantis.md",
-    "Імпланти/SegAtari BladedArms 3.md",
+    "Спорядження/Імпланти/Arasaka Projectile Launch System.md",
+    "Спорядження/Зброя/Дальнобійна зброя/Militech M-10AF Lexington.md",
+    "Спорядження/Імпланти/Arasaka GorillaArms II.md",
+    "Спорядження/Імпланти/SegAtari BladedArms 3.md",
+    "Спорядження/Імпланти/Militech HiddenMantis.md",
+    "Спорядження/Імпланти/Lazarus StrongFists Light.md",
+    "Спорядження/Імпланти/Kendachi MonoWire 3 XL.md",
+    "Спорядження/Імпланти/Arasaka MantisBlades SL.md",
+    "Спорядження/Зброя",
+    "Спорядження/Зброя/Дальнобійна зброя",
+    "Спорядження/Зброя/Рукопашна зброя",
     "Характеристики/Спритність (Dexterity).md",
-    "Імпланти",
+    "Спорядження/Імпланти",
     "Лор/Мегакорпорації/Petrochem/Історія.md",
     "Лор/Мегакорпорації/Petrochem/Petrochem.md",
     "Лор/Мегакорпорації/Petrochem",
@@ -173,16 +189,13 @@
     "Лор/Історія світу/1990-ті роки.md",
     "Лор/Мегакорпорації",
     "Лор/Історія світу",
-    "Лор",
     "Зброя/Arasaka GorillaArms II 1.md",
-    "Зброя",
     "Характеристики/Інтелект (Intelligence).md",
     "Навички/Аналіз (Investigation).md",
     "Персонаж.md",
     "Характеристики/Мудрість (Wisdom).md",
     "Характеристики/Харизма (Charisma).md",
     "Навички/Академія (Academia).md",
-    "Без назви.canvas",
-    "Навички/Без назви"
+    "Без назви.canvas"
   ]
 }
