@@ -1,7 +1,5 @@
 #імплант #дальня_зброя
-
-![image](https://static.wikia.nocookie.net/cyberpunk/images/d/dd/Arasaka_PLS_P2077.png/revision/latest/scale-to-width-down/1000?cb=20210404152920)
-
+![image](https://static.wikia.nocookie.net/cyberpunk/images/2/2e/Cw_arms_projectilelauncher.png/revision/latest?cb=20210606185906)
 **Коштує:** 33 000 ED
 **Рідкість:** Епічне
 

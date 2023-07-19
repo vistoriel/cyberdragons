@@ -1,7 +1,5 @@
 #імплант #ближня_зброя
-
-![image](https://static.wikia.nocookie.net/cyberpunk/images/e/ed/Monowire_Screenshot.png/revision/latest/scale-to-width-down/1000?cb=20210113152635)
-
+![image](https://static.wikia.nocookie.net/cyberpunk/images/1/17/Cw_arms_nanowires.png/revision/latest?cb=20210605120148)
 **Коштує:** 35 000 ED
 **Рідкість:** Епічне
 **Шкода:** 1к6 ріжуча

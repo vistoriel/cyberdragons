@@ -1,7 +1,5 @@
 #імплант #ближня_зброя
-
-![image](https://static.wikia.nocookie.net/cyberpunk/images/d/df/Arasaka_Mantis_Blade_P2077.png/revision/latest/scale-to-width-down/1000?cb=20200830021927)
-
+![image](https://static.wikia.nocookie.net/cyberpunk/images/8/81/Cw_arms_mantisblades.png/revision/latest?cb=20210607103740)
 **Коштує:** 18 000 ED
 **Рідкість:** Рідкісна
 **Шкода:** 1к6 ріжуча

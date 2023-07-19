@@ -1,9 +1,7 @@
 #імплант #ближня_зброя
-
-![image](https://static.wikia.nocookie.net/cyberpunk/images/8/83/Gorilla_Arms_specs.png/revision/latest/scale-to-width-down/1000?cb=20200811024940)
-
+![image](https://static.wikia.nocookie.net/cyberpunk/images/9/9e/Cw_arms_strongarms.png/revision/latest?cb=20210605080249)
 **Коштує:** 30 000 ED
-**Рідкість:** Епічна 
+**Рідкість:** Епічна
 **Шкода:** 1к6 ударна
 **Властивості:** [[Легке (Light)]]
 
