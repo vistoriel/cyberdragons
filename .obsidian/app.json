@@ -3,5 +3,6 @@
   "spellcheckLanguages": [
     "en-US",
     "uk"
-  ]
+  ],
+  "useMarkdownLinks": true
 }
