@@ -1,5 +1,5 @@
 #імплант #рукопашна_зброя #зброя #спорядження
-![image](https://static.wikia.nocookie.net/cyberpunk/images/8/81/Cw_arms_mantisblades.png/revision/latest?cb=20210607103740)
+<img src="https://static.wikia.nocookie.net/cyberpunk/images/8/81/Cw_arms_mantisblades.png" alt="Image"/>
 **Коштує:** 32 000 ED
 **Рідкість:** Епічна
 **Шкода:** 1к6 ріжуча

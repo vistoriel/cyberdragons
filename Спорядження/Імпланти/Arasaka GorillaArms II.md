@@ -1,5 +1,5 @@
 #імплант #рукопашна_зброя #зброя #спорядження
-![image](https://static.wikia.nocookie.net/cyberpunk/images/9/9e/Cw_arms_strongarms.png/revision/latest?cb=20210605080249)
+<img src="https://static.wikia.nocookie.net/cyberpunk/images/9/9e/Cw_arms_strongarms.png/revision/latest?cb=20210605080249)" alt="Image"/>
 **Коштує:** 30 000 ED
 **Рідкість:** Епічна
 **Шкода:** 1к6 ударна

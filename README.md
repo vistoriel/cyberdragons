@@ -1,6 +1,6 @@
 # Техно корпорації та кібер дракони
 
-<img src="https://static.wikia.nocookie.net/cyberpunk/images/2/2f/Night_City_Database_CP2077.jpg" alt="Wrapper" />
+<img src="https://static.wikia.nocookie.net/cyberpunk/images/2/2f/Night_City_Database_CP2077.jpg" alt="Wrapper"/>
 
 "Кібер Дракони" - захоплююче кіберпанк-доповнення до п’ятого видання Dungeons & Dragons, яке поєднує елементи класичних "Підземелля і дракони" зі стильною і кіберпанковою атмосферою світу "Cyberpunk 2020" та "Cyberpunk 2077".
 
