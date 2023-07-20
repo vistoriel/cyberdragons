@@ -1,7 +1,8 @@
+#високоточна_гвинтівка #далекобійна_зброя #зброя #спорядження 
 
-[![](https://static.wikia.nocookie.net/cyberpunk/images/c/ca/Kolac_Tiny_Mike.png/revision/latest/scale-to-width-down/350?cb=20220907052328)](https://static.wikia.nocookie.net/cyberpunk/images/c/ca/Kolac_Tiny_Mike.png/revision/latest?cb=20220907052328)
+![](https://static.wikia.nocookie.net/cyberpunk/images/c/ca/Kolac_Tiny_Mike.png/revision/latest/scale-to-width-down/350?cb=20220907052328)
 
-« Крихітний Майкякимось чином заволодів цим сербським самоцвітом і перетворив її на шедевр зброї»
+« Крихітний Майк якимось чином заволодів цим сербським самоцвітом і перетворив її на шедевр зброї»
 
 Мінімальний рівень - 6
 Ціна - 42000 ED
