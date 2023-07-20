@@ -11,8 +11,12 @@
             "id": "5f285bf21e250545",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Зброя/Снайперські гвинтівки/Tsunami Nekomata Цунамі Некомата.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Зброя/Снайперські гвинтівки/Tsunami Nekomata Цунамі Некомата.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Зброя/Снайперські гвинтівки/Tsunami Nekomata Цунамі Некомата.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Зброя/Снайперські гвинтівки/Tsunami Nekomata Цунамі Некомата.md"
+              }
             }
           }
         ]
@@ -140,41 +148,42 @@
   },
   "active": "5f285bf21e250545",
   "lastOpenFiles": [
-    "Лор/Мегакорпорації/Militech/Історія.md",
-    "Лор/Мегакорпорації/Militech/Militech.md",
-    "Лор/Мегакорпорації/EBM/EBM.md",
-    "Лор/Мегакорпорації/EBM/Історія.md",
-    "Лор/Мегакорпорації/Petrochem/Petrochem.md",
-    "Лор/Мегакорпорації/Petrochem/Історія.md",
-    "Лор/Мегакорпорації/Arasaka/Історія.md",
-    "Лор/Мегакорпорації/Arasaka/Arasaka.md",
+    "Зброя/Пістолети/Militech M-76e Omaha.md",
+    "Зброя/Пістолети/Militech M-10AF Lexington.md",
+    "Зброя/Пістолети/Kang Tao A-22B Chao.md",
+    "Зброя/Пістолети/Dying Night.md",
+    "Зброя/Пістолети/Genjiroh Генджірох.md",
+    "Зброя/Пістолети/Apparition Привид.md",
+    "Зброя/Пістолети/Arasaka JKE-X2 Kenshin.md",
+    "Зброя/Пістолети/Constitutional Arms Liberty.md",
+    "Зброя/Пістолети/Constitutional Arms Unity.md",
+    "Зброя/Пістолети/Death and Taxes Смерть і податки.md",
+    "Зброя/Пістолети/Арасака HJKE-11 Юкімура.md",
+    "Зброя/Снайперські гвинтівки/Tsunami Nekomata Цунамі Некомата.md",
+    "Зброя/Високоточні гвинтівки/Hypercritical Гіперкритичний.md",
+    "Зброя/Високоточні гвинтівки/Midnight Arms SOR-22.md",
+    "Зброя/Снайперські гвинтівки/Tsunami Ashura.md",
+    "Зброя/Снайперські гвинтівки/Overwatch Надзор.md",
+    "Зброя/Високоточні гвинтівки/Rostović Kolac Ростович Колац.md",
+    "Зброя/Високоточні гвинтівки/Militech M-179 Achilles.md",
+    "Зброя/Снайперські гвинтівки",
+    "Зброя/Штурмові гвинтівки/Arasaka HJSH-18 Masamune.md",
+    "Зброя/Штурмові гвинтівки/Divided We Stand.md",
+    "Зброя/Високоточні гвинтівки",
+    "Зброя/Штурмові гвинтівки/Arasaka Nowaki.md",
+    "Зброя/Штурмові гвинтівки/Darra Polytechnic DA8 Umbra.md",
+    "Зброя/Штурмові гвинтівки/Psalm 11 6.md",
+    "Зброя/Штурмові гвинтівки/Nokota D5 Copperhead.md",
+    "Зброя/Штурмові гвинтівки/Militech M251s Ajax.md",
+    "Зброя/Револьвери/Darra Polytechnic DR-12 Quasar.md",
+    "Зброя/Штурмові гвинтівки",
+    "Зброя/Револьвери",
+    "Зброя/Пістолети",
+    "Зброя",
     "Лор/Мегакорпорації/Militech",
     "Лор/Мегакорпорації/EBM",
     "Лор/Мегакорпорації/Petrochem",
-    "Лор/Історія світу/2000-ті роки.md",
     "Лор/Мегакорпорації/Arasaka",
-    "Лор/Історія світу/1990-ті роки.md",
-    "Лор/Мегакорпорації",
-    "Лор/Історія світу",
-    "Лор",
-    "Лор/Мегакорпорації/Arasaka/Без назви.md",
-    "Лор/Мегакорпорації/Без назви.md",
-    "Арасаки.md",
-    "Характеристики/Інтелект (Intelligence).md",
-    "Лор/Історія світу/1990-ті роки",
-    "Навички/Аналіз (Investigation).md",
-    "Характеристики/Спритність (Dexterity).md",
-    "Навички/Атлетика (Athletics).md",
-    "Навички/Акробатика (Acrobatics).md",
-    "Персонаж.md",
-    "Характеристики/Cтатура (Constitution).md",
-    "Характеристики/Сила (Strength).md",
-    "Навички/Непомітність (Stealth).md",
-    "Навички/Спритність рук (Sleight of Hand).md",
-    "Характеристики/Мудрість (Wisdom).md",
-    "Спритність.md",
-    "Без назви.canvas",
-    "Навички/Без назви",
-    "Навички"
+    "Без назви.canvas"
   ]
 }
