@@ -24,4 +24,4 @@ sidebar_position: 0
 - [[Оператор (Operator)]]
 - [[Ріпер (Ripperdoc)]]
 - [[Рокстар (Rockstar)]]
-- [[Соло (Solo)]]
+- [[Соло (Solo)]] sdfsdf

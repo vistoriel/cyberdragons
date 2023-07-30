@@ -44,6 +44,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true
+        }
+      },
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: true
@@ -58,9 +63,21 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'characterSidebar',
             position: 'left',
-            label: 'Wiki',
+            label: 'Персонаж',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'equipmentSidebar',
+            position: 'left',
+            label: 'Спорядження',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'worldSidebar',
+            position: 'left',
+            label: 'Світ',
           },
           {
             href: 'https://github.com/vistoriel/cyberdragons',
@@ -103,7 +120,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/vistoriel/cyberdragons',
               },
             ],
           },
