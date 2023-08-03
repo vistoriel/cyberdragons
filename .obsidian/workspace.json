@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "b687660addea5507",
+    "type": "split",
+    "children": [
+      {
+        "id": "8222fdd33f27357c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20a54f5ef186a6ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Спорядження/Зброя/Далекобійна зброя/Високоточні гвинтівки/Midnight Arms SOR-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ab1773858ec02f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quickhacks/Отрута.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34dba77325b9700c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94f2806c6b6014a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8f4725c9ac47834",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce020cdd34a3e9e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\" -\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de6217d5bf26b140",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "170759e7d1e26e4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d46159740ae7e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "160bddcc5b13bf0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quickhacks/Отрута.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fa7d16667b02464",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quickhacks/Отрута.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbf7c79574e77ac9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b487d4f91c488f44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quickhacks/Отрута.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
+    }
+  },
+  "active": "2ab1773858ec02f8",
+  "lastOpenFiles": [
+    "2023-07-21.md",
+    "Quickhacks/Отрута.md",
+    "Спорядження/Зброя/Далекобійна зброя/Штурмові гвинтівки/Psalm 11 6.md",
+    "Спорядження/Зброя/README.md",
+    "Спорядження/Зброя/Далекобійна зброя/Штурмові гвинтівки/Nokota D5 Copperhead.md",
+    "Спорядження/Зброя/Далекобійна зброя/Штурмові гвинтівки/Darra Polytechnic DA8 Umbra.md",
+    "Спорядження/Зброя/Далекобійна зброя/Штурмові гвинтівки/Arasaka Nowaki.md",
+    "Спорядження/Зброя/Далекобійна зброя/Штурмові гвинтівки/Arasaka HJSH-18 Masamune.md",
+    "Спорядження/Зброя/Далекобійна зброя/Штурмові гвинтівки/Militech M251s Ajax.md",
+    "Спорядження/Зброя/Далекобійна зброя/Штурмові гвинтівки/Divided We Stand.md",
+    "Спорядження/Зброя/Далекобійна зброя/Високоточні гвинтівки/Midnight Arms SOR-22.md",
+    "Спорядження/Зброя/Далекобійна зброя/Високоточні гвинтівки/Hypercritical Гіперкритичний.md",
+    "Спорядження/Зброя/Далекобійна зброя/Високоточні гвинтівки/Rostović Kolac Ростович Колац.md",
+    "Спорядження/Зброя/Далекобійна зброя/Високоточні гвинтівки/Militech M-179 Achilles.md",
+    "Спорядження/Зброя/Далекобійна зброя/Снайперські гвинтівки/Overwatch Надзор.md",
+    "Спорядження/Зброя/Далекобійна зброя/Снайперські гвинтівки/Tsunami Nekomata Цунамі Некомата.md",
+    "Спорядження/Зброя/Далекобійна зброя/Снайперські гвинтівки/Tsunami Ashura.md",
+    "Спорядження/Зброя/Далекобійна зброя/Револьвери/Malorian Overture.md",
+    "Спорядження/Зброя/Далекобійна зброя/Револьвери/Doom Doom.md",
+    "Спорядження/Зброя/Далекобійна зброя/Револьвери/Darra Polytechnic DR-12 Quasar.md",
+    "Спорядження/Зброя/Далекобійна зброя/Револьвери/Darra Polytechnic DR-5 Nova.md",
+    "Спорядження/Зброя/Далекобійна зброя/Револьвери/Crash.md",
+    "Спорядження/Зброя/Далекобійна зброя/Пістолети/Арасака HJKE-11 Юкімура.md",
+    "Спорядження/Зброя/Далекобійна зброя/Дробовики/Budget Arms Carnage Бюджетна бійня.md",
+    "Спорядження/Зброя/Далекобійна зброя/Дробовики/Мокс.md",
+    "Спорядження/Зброя/Далекобійна зброя/Пістолети/Tsunami Nue Цунамі Нуе.md",
+    "Quickhacks",
+    "Без назви.canvas",
+    "Спорядження/Зброя/Далекобійна зброя/Дробовики"
+  ]
+}
